@@ -1,0 +1,28 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+img {
+    border-radius: 100%;
+}
+
+.tableau {
+    width: 100%;
+    border: 1px;
+}
+
+.tableau thead th {
+    background-color: #fff;
+    padding: 10px;
+}
+
+.tableau tbody tr td {
+    background-color: #fff;
+    padding: 10px;
+}
+
+body {
+    margin: 0px 80px 0px 80px;
+    background-color: #F1DAC4;
+}
+
